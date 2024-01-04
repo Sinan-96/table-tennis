@@ -34,14 +34,14 @@ type RouteData = {
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "SB1U Krok Champions" },
+    { title: "SB1U Bordtennis Champions" },
     {
       property: "og:title",
-      content: "SB1U Krokinole Champions",
+      content: "SB1U Bordetennis Champions",
     },
     {
       name: "description",
-      content: "Her kan du registrere resultater fra SB1U Krokinolekamper.",
+      content: "Her kan du registrere resultater fra SB1U Bordtenniskamper.",
     },
   ];
 };
@@ -58,7 +58,7 @@ export default function Index() {
             1v1
           </span>
           <img
-            src="img/1v1krok.png"
+            src="img/1v1_table_tennis.jpeg"
             alt="1v1"
             className="w-1/2 md:w-full rounded"
           />
@@ -71,7 +71,7 @@ export default function Index() {
             2v2
           </span>
           <img
-            src="img/2v2krok.png"
+            src="img/2v2_table_tennis.jpeg"
             alt="2v2"
             className="w-1/2 md:w-full rounded"
           />

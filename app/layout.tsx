@@ -65,12 +65,12 @@ export default function Index() {
           <NavMenu />
           <div className="flex justify-center">
             <img
-              src="/img/krokelo-logo.png" // Update path to your logo image
+              src="/img/table_tennis_logo.png" // Update path to your logo image
               alt="Krokinole logo"
               className="h-16 mr-6 rounded w-auto"
             />
             <div className="self-center text-3xl font-semibold whitespace-nowrap dark:text-white">
-              SB1U Krokinole
+              SB1U Bordtennis
             </div>
           </div>
         </header>

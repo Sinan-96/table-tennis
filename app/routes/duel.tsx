@@ -185,7 +185,7 @@ export default function Index() {
         </details>
 
         <div className="flex justify-center mb-6">
-          <img src="img/1v1krok.png" alt="1v1" className="w-1/3 rounded" />
+          <img src="img/1v1_table_tennis.jpeg" alt="1v1" className="w-1/3 rounded" />
         </div>
         <fetcher.Form method="post" onSubmit={handleSubmit} className="mb-8">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4 ">

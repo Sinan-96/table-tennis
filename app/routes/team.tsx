@@ -334,7 +334,7 @@ export default function Index() {
             </div>
             <div className="flex self-center justify-center items-center w-1/3">
               <div className="md:items-center mb-6 ">
-                <img src="img/2v2krok.png" alt="2v2" className="rounded" />
+                <img src="img/2v2_table_tennis.jpeg" alt="2v2" className="rounded" />
               </div>
             </div>
           </div>
