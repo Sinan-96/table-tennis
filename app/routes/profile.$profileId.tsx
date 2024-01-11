@@ -63,14 +63,14 @@ export const loader: LoaderFunction = async ({ params }) => {
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "SB1U Krok Champions" },
+    { title: "SB1U Table tennis Champions" },
     {
       property: "og:title",
-      content: "SB1U Krokinole Champions",
+      content: "SB1U Table tennis Champions",
     },
     {
       name: "description",
-      content: "Her kan du registrere resultater fra SB1U Krokinolekamper.",
+      content: "Her kan du registrere resultater fra SB1U bordtenniskamper.",
     },
   ];
 };

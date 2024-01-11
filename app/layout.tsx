@@ -66,7 +66,7 @@ export default function Index() {
           <div className="flex justify-center">
             <img
               src="/img/table_tennis_logo.png" // Update path to your logo image
-              alt="Krokinole logo"
+              alt="Table tennis logo"
               className="h-16 mr-6 rounded w-auto"
             />
             <div className="self-center text-3xl font-semibold whitespace-nowrap dark:text-white">

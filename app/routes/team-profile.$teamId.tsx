@@ -62,11 +62,11 @@ export const loader: LoaderFunction = async ({ params }) => {
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "SB1U Krok Champions - Teams" },
-    { property: "og:title", content: "SB1U Krokinole Champions - Teams" },
+    { title: "SB1U Table tennis Champions - Teams" },
+    { property: "og:title", content: "SB1U Table tennis Champions - Teams" },
     {
       name: "description",
-      content: "List and stats of all the teams in Krok Champions.",
+      content: "List and stats of all the teams in Table tennis Champions.",
     },
   ];
 };
